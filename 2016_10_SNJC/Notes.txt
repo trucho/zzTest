@@ -1,0 +1,11 @@
+2016_Meister notes and questions
+
+	What is the Erath's magnetic field and comparisons
+	Magnetotactic bacteria (Bazylinski nad Frankel, 2004)
+		Ferrimagnetic crystals of magnetite in a chain
+	Dunlop, 1972:
+		Smallest iron particles with magnetic moment at room temp = magnetite (Fe3O4) crystals (30 nm)
+		1x10^6 iron atoms, packed (ch37 of Feynman vol2)
+		
+Feynman:
+	Ferromagnetic materials are special: unlike normal materials, neighboring atoms tend to have parallel electron spins in a magnetic field
